@@ -41,3 +41,11 @@ ead:
       userEventExchange: ead.userevent
     queue:
       userEventQueue: ead.userevent.ms.course
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - refresh
+          - health
