@@ -42,7 +42,7 @@ ead:
 
 authuser:
   refreshscope:
-    name: Gabriel Fortunato Juca
+    name: Gabriel Fortunato
 
 management:
   endpoints:
