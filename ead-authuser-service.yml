@@ -23,7 +23,7 @@ spring:
     ansi:
       enabled: Always
   rabbitmq:
-    addresses: amqps://akfqarag:tbY1y22ne27yDy8P4YhyVaTzVVJq5S9O@woodpecker.rmq.cloudamqp.com/akfqarag
+    addresses: amqps://ycnwvpku:jp_oZe_4-_6nNfdaYQtiasDHM_-spRXS@moose.rmq.cloudamqp.com/ycnwvpku
 
 logging:
   level:
